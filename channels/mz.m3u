@@ -5,3 +5,5 @@ http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-name="TVM Internacional" tvg-country="MZ" tvg-language="Portuguese" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_1.png" group-title="General",TVM Internacional (480p)
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MiramarTV.mz" tvg-name="Miramar MOZ" tvg-country="MZ" tvg-language="Portuguese" tvg-logo="http://miramar.co.mz/wp-content/themes/tvrecord/favicon.ico?v=2" group-title="General",Miramar TV
+https://livestream.com/accounts/21076186/events/6180705/player?width=640&height=360&autoPlay=true&mute=false
